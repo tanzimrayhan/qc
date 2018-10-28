@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\New\\back\\qcHackathon2018\\qcHackathon2018.csproj",
+      "projectUniqueName": "F:\\QC\\back\\qcHackathon2018\\qcHackathon2018.csproj",
       "projectName": "qcHackathon2018",
-      "projectPath": "F:\\New\\back\\qcHackathon2018\\qcHackathon2018.csproj",
+      "projectPath": "F:\\QC\\back\\qcHackathon2018\\qcHackathon2018.csproj",
       "packagesPath": "C:\\Users\\tanzi\\.nuget\\packages\\",
-      "outputPath": "F:\\New\\back\\qcHackathon2018\\obj\\",
+      "outputPath": "F:\\QC\\back\\qcHackathon2018\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
