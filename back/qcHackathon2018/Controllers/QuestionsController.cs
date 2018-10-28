@@ -12,11 +12,26 @@ namespace qcHackathon2018.Controllers
    
     public class QuestionsController : Controller
     {
+        readonly QuizContext context;
+        public QuestionsController(QuizContext context)
+        {
+            this.context = context;
+        }
+        [HttpGet]
+        public ActionResult<IEnumerable<Models.Question>> Get()
+        {
+            return new Models.Question[] {
+                new Models.Question(){Text="hello"},
+                new Models.Question(){Text="hi"}
+
+            };
+        }
         // POST api/values
         [HttpPost]
         public void Post([FromBody] Models.Question question)
         {
-
+            context.Questions.Add(new Models.Question() { Text = "test" });
+            context.SaveChanges();
         }
     }
 }
