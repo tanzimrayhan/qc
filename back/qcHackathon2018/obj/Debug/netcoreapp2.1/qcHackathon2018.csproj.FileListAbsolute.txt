@@ -12,3 +12,17 @@ F:\New\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.AssemblyInfo
 F:\New\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.RazorTargetAssemblyInfo.cache
 F:\New\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.dll
 F:\New\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.pdb
+F:\QC\back\qcHackathon2018\bin\Debug\netcoreapp2.1\qcHackathon2018.deps.json
+F:\QC\back\qcHackathon2018\bin\Debug\netcoreapp2.1\qcHackathon2018.runtimeconfig.json
+F:\QC\back\qcHackathon2018\bin\Debug\netcoreapp2.1\qcHackathon2018.runtimeconfig.dev.json
+F:\QC\back\qcHackathon2018\bin\Debug\netcoreapp2.1\qcHackathon2018.dll
+F:\QC\back\qcHackathon2018\bin\Debug\netcoreapp2.1\qcHackathon2018.pdb
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.csprojAssemblyReference.cache
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.csproj.CoreCompileInputs.cache
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.RazorAssemblyInfo.cache
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.RazorAssemblyInfo.cs
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.AssemblyInfoInputs.cache
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.AssemblyInfo.cs
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.RazorTargetAssemblyInfo.cache
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.dll
+F:\QC\back\qcHackathon2018\obj\Debug\netcoreapp2.1\qcHackathon2018.pdb
