@@ -13,9 +13,10 @@ import { NavComponent} from './nav.components'
 import { QuestionsComponent } from './questions.component';
 
 const routes = [
+  {path: '', component: HomeComponent},
   {path: 'question', component: QuestionComponent},
-  {path: 'questions', component: QuestionsComponent},
-  {path: '', component: HomeComponent}
+  {path: 'questions', component: QuestionsComponent}
+  
 ]
 
 @NgModule({
