@@ -1,10 +1,11 @@
+
+
 import { Component } from '@angular/core'
 import { QuestionComponent } from './question.component'
 
 @Component({
-  selector: 'app-root',
-  template: '<router-outlet> </router-outlet>'
+  template: '<questions> </questions><question> </question>'
 })
-export class AppComponent {
-  
+export class HomeComponent {
+
 }
